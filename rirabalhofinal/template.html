@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <title>Localização</title>
+        <meta charset="utf-8">
+        {{mapa.js}}
+        <style type="text/css">
+        table.gridtable {
+            font-family: verdana,arial,sans-serif;
+            font-size:11px;
+            color:#333333;
+            border-width: 1px;
+            border-color: #666666;
+            border-collapse: collapse;
+        }
+        table.gridtable th {
+            border-width: 1px;
+            padding: 8px;
+            border-style: solid;
+            border-color: #666666;
+            background-color: #dedede;
+        }
+        table.gridtable td {
+            border-width: 1px;
+            padding: 8px;
+            border-style: solid;
+            border-color: #666666;
+            background-color: #ffffff;
+        }
+        </style>
+    </head>
+    <body>
+        <table class="gridtable" border="0">
+            <tr>
+                <th colspan="2">Disposição geográfica dos replies por partido</th>
+            </tr>
+            <tr>
+                <th>Localização</th>
+                <th>Legenda</th>
+            </tr>
+            <tr>
+                <td>{{ mapa.html }}</td>
+                <td valign="top">
+
+                    <table class="gridtable" border="2">
+                        <tr>
+                            <th>Partido</th>
+                            <th>Cor</th>
+                        </tr>
+                        <tr>
+                            <td>PSDB</td>
+                            <td><img src="http://maps.google.com/mapfiles/ms/icons/blue-dot.png"></td>
+                        </tr>
+                        <tr>
+                            <td>PT</td>
+                            <td><img src="http://maps.google.com/mapfiles/ms/icons/red-dot.png"></td>
+                        </tr>
+                        <tr>
+                            <td>PMDB</td>
+                            <td><img src="http://maps.google.com/mapfiles/ms/icons/green-dot.png"></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+tweepy
+flask
+flask-googlemaps
+requests
+lxml
+matplotlib

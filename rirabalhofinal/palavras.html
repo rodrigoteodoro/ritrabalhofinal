@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <title>Localização</title>
+        <meta charset="utf-8">
+        {{maparede45.js}}
+        {{maparedept.js}}
+        {{maparedepmdb.js}}
+        <style type="text/css">
+        table.gridtable {
+            font-family: verdana,arial,sans-serif;
+            font-size:11px;
+            color:#333333;
+            border-width: 1px;
+            border-color: #666666;
+            border-collapse: collapse;
+        }
+        table.gridtable th {
+            border-width: 1px;
+            padding: 8px;
+            border-style: solid;
+            border-color: #666666;
+            background-color: #dedede;
+        }
+        table.gridtable td {
+            border-width: 1px;
+            padding: 8px;
+            border-style: solid;
+            border-color: #666666;
+            background-color: #ffffff;
+        }
+        </style>
+    </head>
+    <body>
+        <table class="gridtable" border="0">
+            <tr>
+                <th colspan="2">Disposição geográfica das palavras/sentimentos para PSDB</th>
+            </tr>
+            <tr>
+                <th>Localização</th>
+                <th>Legenda</th>
+            </tr>
+            <tr>
+                <td>{{ maparede45.html }}</td>
+                <td valign="top">
+
+                    <table class="gridtable" border="2">
+                        <tr>
+                            <th>Palavras</th>
+                            <th>Qtd</th>
+                            <th>Cor</th>
+                        </tr>
+                        <tr>
+                            <td>Positivas</td>
+                            <td>{{qtd_pos_rede45}}</td>
+                            <td><img src="http://maps.google.com/mapfiles/ms/icons/blue-dot.png"></td>
+                        </tr>
+                        <tr>
+                            <td>Negativas</td>
+                            <td>{{qtd_neg_rede45}}</td>
+                            <td><img src="http://maps.google.com/mapfiles/ms/icons/red-dot.png"></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <br/>
+        <table class="gridtable" border="0">
+            <tr>
+                <th colspan="2">Disposição geográfica das palavras/sentimentos para PT</th>
+            </tr>
+            <tr>
+                <th>Localização</th>
+                <th>Legenda</th>
+            </tr>
+            <tr>
+                <td>{{ maparedept.html }}</td>
+                <td valign="top">
+
+                    <table class="gridtable" border="2">
+                        <tr>
+                            <th>Palavras</th>
+                            <th>Qtd</th>
+                            <th>Cor</th>
+                        </tr>
+                        <tr>
+                            <td>Positivas</td>
+                            <td>{{qtd_pos_pt}}</td>
+                            <td><img src="http://maps.google.com/mapfiles/ms/icons/blue-dot.png"></td>
+                        </tr>
+                        <tr>
+                            <td>Negativas</td>
+                            <td>{{qtd_neg_pt}}</td>
+                            <td><img src="http://maps.google.com/mapfiles/ms/icons/red-dot.png"></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <br/>
+        <table class="gridtable" border="0">
+            <tr>
+                <th colspan="2">Disposição geográfica das palavras/sentimentos para PMDB</th>
+            </tr>
+            <tr>
+                <th>Localização</th>
+                <th>Legenda</th>
+            </tr>
+            <tr>
+                <td>{{ maparedepmdb.html }}</td>
+                <td valign="top">
+
+                    <table class="gridtable" border="2">
+                        <tr>
+                            <th>Palavras</th>
+                            <th>Qtd</th>
+                            <th>Cor</th>
+                        </tr>
+                        <tr>
+                            <td>Positivas</td>
+                            <td>{{qtd_pos_pmdb}}</td>
+                            <td><img src="http://maps.google.com/mapfiles/ms/icons/blue-dot.png"></td>
+                        </tr>
+                        <tr>
+                            <td>Negativas</td>
+                            <td>{{qtd_neg_pmdb}}</td>
+                            <td><img src="http://maps.google.com/mapfiles/ms/icons/red-dot.png"></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
