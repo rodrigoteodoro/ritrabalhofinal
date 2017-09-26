@@ -2,7 +2,19 @@
 
 ## Motivo
 
-Trabalho sobre Recuperação da Informação na Web e em redes socias da pós de BigData da PucMinas Turma of-2
+Este trabalho tem como objetivo demonstrar os conhecimentos aprendidos na disciplina de recuperação da informação da WEB e redes sociais Turma of-2 num projeto que recupera e analisa os replies de tweets, coletados entre março a agosto de 2017, que foram enviados em resposta aos tweets publicados pelos três principais partidos políticos em foco no Brasil neste ano de 2017, sendo:
+
+- <a href='https://twitter.com/rede45' target='_blank'>PSDB</a>
+- <a href='https://twitter.com/PMDB_Nacional' target='_blank'>PMDB</a>
+- <a href='https://twitter.com/ptbrasil' target='_blank'>PT</a>
+
+Sobre a base de replies recuperados serão feitas as seguintes análises:
+
+- Sentimento (positivo ou negativo) - o que os usuários do Twitter colocaram nos replies, gerando uma nuvem de palavras colorida de acordo com o sentimento provocado.
+- Geolocalização das palavras no mapa do Brasil, sendo:
+- Geolocalização das pessoas que enviaram os replies no mapa do Brasil
+- Geolocalização de cada palavra contida nos replies com seu sentimento no mapa do Brasil
+
 
 ## Contém
 
