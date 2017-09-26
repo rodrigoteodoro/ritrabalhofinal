@@ -25,7 +25,7 @@ Sobre a base de replies recuperados serão feitas as seguintes análises:
 ## Requisitos
 
 - <a href='https://www.python.org/'> Python 3.5</a>
-- Bibliotecas para o PyhtonVeja o arquivo <a href='https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/requirements.txt'>requirements.txt</a>
+- Bibliotecas para o Pyhton, veja o arquivo <a href='https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/requirements.txt'>requirements.txt</a>
 - <a href='https://www.knime.com/'> Knime 2.12.2 </a> versão para Windows
 
 ## Exemplo de resultados
