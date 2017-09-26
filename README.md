@@ -32,12 +32,15 @@ Sobre a base de replies recuperados serão feitas as seguintes análises:
 
 - Nuvem de palavras
 
+<p align="center">
 <img width=653px src="https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/knime/rede45.png">
+</p>
 
 - Geolocalização no Google Maps
 
+<p align="center">
 <img src="https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/rirabalhofinal/mapa/mapageral.PNG">
-
+</p>
 
 
 
