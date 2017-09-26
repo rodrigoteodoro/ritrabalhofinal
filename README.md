@@ -10,8 +10,8 @@ Sobre a base de replies recuperados serão feitas as seguintes análises:
 
 - Sentimento (positivo ou negativo) - o que os usuários do Twitter colocaram nos replies, gerando uma nuvem de palavras colorida de acordo com o sentimento provocado.
 - Geolocalização das palavras no mapa do Brasil, sendo:
--- Geolocalização das pessoas que enviaram os replies no mapa do Brasil
--- Geolocalização de cada palavra contida nos replies com seu sentimento no mapa do Brasil
+ - Geolocalização das pessoas que enviaram os replies no mapa do Brasil
+ - Geolocalização de cada palavra contida nos replies com seu sentimento no mapa do Brasil
 
 
 ## Contém
