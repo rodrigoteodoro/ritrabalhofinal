@@ -20,7 +20,7 @@ Análise de sentimento e geolocalização de replies postados no Twitter
 <img src="https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/knime/rede45.png">
 </center>
 
-### Geolocalização no GooglMaps:
+### Geolocalização no Google Maps:
 
 <center>
 <img src="https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/knime/georede45.png">
