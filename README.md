@@ -1,11 +1,8 @@
-# Trabaho sobre Recuperação da Informação na Web e em redes socias da pós de BigData da PucMinas Turma of-2
+# Análise de sentimento e geolocalização de replies postados no Twitter
 
-## Título
+## Motivo
 
-<center>
-Análise de sentimento e geolocalização de replies postados no Twitter
-</center>
-
+Trabaho sobre Recuperação da Informação na Web e em redes socias da pós de BigData da PucMinas Turma of-2
 
 ## Requisitos
 
@@ -16,15 +13,12 @@ Análise de sentimento e geolocalização de replies postados no Twitter
 
 ### Nuvem de palavras:
 
-<center>
 <img width=653px src="https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/knime/rede45.png">
-</center>
 
 ### Geolocalização no Google Maps:
 
-<center>
 <img src="https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/knime/georede45.png">
-</center>
+
 
 
 
