@@ -1,4 +1,4 @@
-# Análise de sentimento e geolocalização de replies postados no Twitter
+# Análise de sentimento e geolocalização de <i>replies</i> postados no Twitter
 
 Este trabalho tem como objetivo demonstrar os conhecimentos aprendidos na disciplina de recuperação da informação da WEB e redes sociais Turma of-2 num projeto que recupera e analisa os replies de tweets, coletados entre março a agosto de 2017, que foram enviados em resposta aos tweets publicados pelos três principais partidos políticos em foco no Brasil neste ano de 2017, sendo:
 
