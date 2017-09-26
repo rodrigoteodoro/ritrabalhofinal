@@ -17,7 +17,7 @@ Análise de sentimento e geolocalização de replies postados no Twitter
 ### Nuvem de palavras:
 
 <center>
-<img height:653px width:425px src="https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/knime/rede45.png">
+<img height=653px width=425px src="https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/knime/rede45.png">
 </center>
 
 ### Geolocalização no Google Maps:
