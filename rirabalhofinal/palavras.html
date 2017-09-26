@@ -1,11 +1,15 @@
 <!DOCTYPE html>
     <html>
     <head>
-        <title>Localização</title>
+        <title>Palavras</title>
         <meta charset="utf-8">
         {{maparede45.js}}
+        {{maparede45neg.js}}
         {{maparedept.js}}
+        {{maparedeptneg.js}}
         {{maparedepmdb.js}}
+        {{maparedepmdbneg.js}}
+
         <style type="text/css">
         table.gridtable {
             font-family: verdana,arial,sans-serif;
@@ -42,7 +46,7 @@
             </tr>
             <tr>
                 <td>{{ maparede45.html }}</td>
-                <td valign="top">
+                <td valign="top" rowspan="2">
 
                     <table class="gridtable" border="2">
                         <tr>
@@ -63,6 +67,9 @@
                     </table>
                 </td>
             </tr>
+            <tr>
+                <td>{{ maparede45neg.html }}</td>
+            </tr>
         </table>
         <br/>
         <table class="gridtable" border="0">
@@ -75,7 +82,7 @@
             </tr>
             <tr>
                 <td>{{ maparedept.html }}</td>
-                <td valign="top">
+                <td valign="top"  rowspan="2">
 
                     <table class="gridtable" border="2">
                         <tr>
@@ -96,6 +103,9 @@
                     </table>
                 </td>
             </tr>
+            <tr>
+                <td>{{ maparedeptneg.html }}</td>
+            </tr>
         </table>
         <br/>
         <table class="gridtable" border="0">
@@ -108,7 +118,7 @@
             </tr>
             <tr>
                 <td>{{ maparedepmdb.html }}</td>
-                <td valign="top">
+                <td valign="top"  rowspan="2">
 
                     <table class="gridtable" border="2">
                         <tr>
@@ -128,6 +138,9 @@
                         </tr>
                     </table>
                 </td>
+            </tr>
+            <tr>
+                <td>{{ maparedepmdbneg.html }}</td>
             </tr>
         </table>
     </body>

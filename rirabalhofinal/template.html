@@ -3,7 +3,10 @@
     <head>
         <title>Localização</title>
         <meta charset="utf-8">
-        {{mapa.js}}
+        {{maparede45.js}}
+        {{mapapt.js}}
+        {{mapapmdb.js}}
+
         <style type="text/css">
         table.gridtable {
             font-family: verdana,arial,sans-serif;
@@ -39,7 +42,7 @@
                 <th>Legenda</th>
             </tr>
             <tr>
-                <td>{{ mapa.html }}</td>
+                <td>{{ maparede45.html }}</td>
                 <td valign="top">
 
                     <table class="gridtable" border="2">
@@ -51,9 +54,53 @@
                             <td>PSDB</td>
                             <td><img src="http://maps.google.com/mapfiles/ms/icons/blue-dot.png"></td>
                         </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <br>
+        <table class="gridtable" border="0">
+            <tr>
+                <th colspan="2">Disposição geográfica dos replies por partido</th>
+            </tr>
+            <tr>
+                <th>Localização</th>
+                <th>Legenda</th>
+            </tr>
+            <tr>
+                <td>{{ mapapt.html }}</td>
+                <td valign="top">
+
+                    <table class="gridtable" border="2">
+                        <tr>
+                            <th>Partido</th>
+                            <th>Cor</th>
+                        </tr>
                         <tr>
                             <td>PT</td>
                             <td><img src="http://maps.google.com/mapfiles/ms/icons/red-dot.png"></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <br/>
+        <table class="gridtable" border="0">
+            <tr>
+                <th colspan="2">Disposição geográfica dos replies por partido</th>
+            </tr>
+            <tr>
+                <th>Localização</th>
+                <th>Legenda</th>
+            </tr>
+            <tr>
+                <td>{{ mapapmdb.html }}</td>
+                <td valign="top">
+
+                    <table class="gridtable" border="2">
+                        <tr>
+                            <th>Partido</th>
+                            <th>Cor</th>
                         </tr>
                         <tr>
                             <td>PMDB</td>
