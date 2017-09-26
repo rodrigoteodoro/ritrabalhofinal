@@ -4,9 +4,13 @@
 
 Trabalho sobre Recuperação da Informação na Web e em redes socias da pós de BigData da PucMinas Turma of-2
 
-## Relatório
+## Contém
 
-<a href='https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/relatorio.pdf'>Visualizar</a>
+- <a href='https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/relatorio.pdf'>Relatório</a>
+- <a href='https://github.com/rodrigoteodoro/ritrabalhofinal/tree/master/rirabalhofinal'>Fontes em Python</a>
+- <a href='https://github.com/rodrigoteodoro/ritrabalhofinal/tree/master/rirabalhofinal/dados'>Dados gerados em formato CSV</a>
+- <a href='https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/knime/trabalhofinal.zip'>Workflow do Knime</a>
+
 
 ## Requisitos
 
@@ -21,7 +25,7 @@ Trabalho sobre Recuperação da Informação na Web e em redes socias da pós de
 
 ### Geolocalização no Google Maps:
 
-<img src="https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/knime/georede45.png">
+<img src="https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/rirabalhofinal/mapa/mapageral.PNG">
 
 
 
