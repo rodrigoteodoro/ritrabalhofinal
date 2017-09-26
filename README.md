@@ -32,16 +32,16 @@ Sobre a base de replies recuperados serão feitas as seguintes análises:
 
 O <a href='https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/relatorio.pdf'>relatório</a> contém mais imagens e separação dos mapas e nuvens de palavras por cada partido.
 
-- Nuvem de palavras
+* Nuvem de palavras
 
 <p align="center">
 <img width=653px src="https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/knime/rede45.png">
 </p>
 
-- Geolocalização no Google Maps
+* Geolocalização no Google Maps
 
 <p align="center">
-<img src="https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/rirabalhofinal/mapa/mapageral.PNG">
+<img src="https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/rirabalhofinal/mapa/rede45.png">
 </p>
 
 
