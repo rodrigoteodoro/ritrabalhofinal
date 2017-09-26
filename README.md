@@ -32,7 +32,7 @@ Sobre a base de replies recuperados serão feitas as seguintes análises:
 
 - Nuvem de palavras
 
-?ts=4<img width=653px src="https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/knime/rede45.png">
++<img width=653px src="https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/knime/rede45.png">
 
 - Geolocalização no Google Maps
 
