@@ -6,7 +6,7 @@ Trabalho sobre Recuperação da Informação na Web e em redes socias da pós de
 
 ## Relatório
 
-<a href='https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/requirements.txt'>relatorio.pdf</a>
+<a href='https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/relatorio.pdf'>Visualizar</a>
 
 ## Requisitos
 
