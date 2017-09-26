@@ -30,7 +30,7 @@ Sobre a base de replies recuperados serão feitas as seguintes análises:
 
 ## Exemplo de resultados
 
-O relatório contém mais imagens e separação dos mapas e nuvens de palavras por cada partido.
+O <a href='https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/relatorio.pdf'>relatório</a> contém mais imagens e separação dos mapas e nuvens de palavras por cada partido.
 
 - Nuvem de palavras
 
