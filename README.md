@@ -30,7 +30,7 @@ Sobre a base de replies recuperados serão feitas as seguintes análises:
 
 ## Exemplo de resultados
 
-O <a href='https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/relatorio.pdf'>relatório</a> contém mais imagens e separação dos mapas e nuvens de palavras por cada partido.
+O <a href='https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/relatorio.pdf'>relatório</a> contém explicação, análise dos dados mais imagens e separação dos mapas e nuvens de palavras por cada partido.
 
 * Nuvem de palavras
 
@@ -44,5 +44,5 @@ O <a href='https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/relator
 <img src="https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/rirabalhofinal/mapa/rede45.png">
 </p>
 
-
+<a href='https://github.com/rodrigoteodoro/ritrabalhofinal/tree/master/rirabalhofinal/mapa'> Clique aqui </a> para ver o diretório com os mapas exportados
 
