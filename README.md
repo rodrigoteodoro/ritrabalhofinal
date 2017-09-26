@@ -30,11 +30,11 @@ Sobre a base de replies recuperados serão feitas as seguintes análises:
 
 ## Exemplo de resultados
 
-### Nuvem de palavras:
+- Nuvem de palavras
 
 <img width=653px src="https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/knime/rede45.png">
 
-### Geolocalização no Google Maps:
+- Geolocalização no Google Maps
 
 <img src="https://github.com/rodrigoteodoro/ritrabalhofinal/blob/master/rirabalhofinal/mapa/mapageral.PNG">
 
